@@ -10,11 +10,6 @@ Additional Features (optional):
     -getSunk method in Board class returns number of boats sunk in the board
     -getRounds method in Board class returns number of rounds that have gone by in the game
     -getLength method in Board class returns length of the board
-Known Bugs/Defects in Program: The x and y coordinates are flipped & submarine and missile attack do not repeat itself
-    user input is out of bounds.
+Known Bugs/Defects in Program: The x and y coordinates are flipped & submarine and missile attack do not repeat itself if user input is out of bounds.
 Outside Sources:
     -N/A
-Academic Integrity Statement: I certify that the information contained in this README file is completely accurate.
-    I have both read and followed the course policies in the 'Academic Integrity - Course Policy' section of the
-    course syllabus.
-    ~Rohan Rokkam
