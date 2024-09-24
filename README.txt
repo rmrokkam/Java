@@ -1,5 +1,4 @@
 Name: Rohan Rokkam
-x500: rokka003
 How to Compile and Run Program: In IntelliJ go to Game.java class and run "main" method.
 Assumptions: The user inputs valid inputs and the user inputs valid coordinates for submarine and missile attack
 Additional Features (optional):
